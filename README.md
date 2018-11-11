@@ -28,9 +28,9 @@ Windows 10 OS/Operating System
 
 *Editing...*  
 
-[CTRL]+[A] --- select all    
-[CTRL]+[A],[DEL] --- delete all  
-[CTRL]+[Left/right arrow] --- select partial     
-[CTRL]+[Left/right arrow],[DEL] --- delete partial     
 [CTRL]+[C] --- copy    
 [CTRL]+[V] --- paste    
+[CTRL]+[A] --- select all    
+[CTRL]+[A],[DEL] --- delete all  
+[SHIFT]+[Left/right arrow] --- select partial     
+[SHIFT]+[Left/right arrow],[DEL] --- delete partial     
