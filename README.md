@@ -6,6 +6,7 @@ Windows 10 OS/Operating System
 - Notepad  
 - MS Paint 
 - MS DOS Command Prompt
+- Web browser(s): Internet Explorer/Google Chrome/Firefox/Opera
 
 ## Keyboard shortcuts
 
