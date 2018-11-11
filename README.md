@@ -22,7 +22,7 @@ Windows 10 OS/Operating System
 
 *Function keys...*  
 
-[F2] --- rename  
+[F2] --- rename a file/folder   
 [F5] --- refresh   
 [F11] --- full screen   
 
